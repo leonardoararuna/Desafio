@@ -38,4 +38,10 @@ status integer not null
 
 ### Execução da API
 
-Importe o projeto para a IDE de desenvolvimento e o execute.
+* Importe o projeto para a IDE de desenvolvimento. 
+* Adicione a biblioteca do driver do mysql.
+* adicione o jar json que está na raiz do projeto.
+* Execute o arquivo HTTP para popular o banco com json.
+* Execute o projeto.
+
+>Essa execução se deu por nao ter tempo de implementar o método de execução automático.</p>
