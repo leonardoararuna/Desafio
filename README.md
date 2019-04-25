@@ -24,7 +24,7 @@ sql
 create database desafio;
 use desafio;
 
-####3 - Crie a tabela planetas
+#### 3 - Crie a tabela planetas
 sql
 create table planetas(
 id integer not null PRIMARY KEY auto_increment,
